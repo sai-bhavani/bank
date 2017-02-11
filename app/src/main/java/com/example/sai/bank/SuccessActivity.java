@@ -15,7 +15,7 @@ public class SuccessActivity extends AppCompatActivity {
 
     public void home(View view) {
         Intent home_intent;
-        home_intent=new Intent(SuccessActivity.this,homeActivity.class);
+        home_intent=new Intent(SuccessActivity.this,selectActivity.class);
         startActivity(home_intent);
     }
 }
