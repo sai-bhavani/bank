@@ -19,7 +19,9 @@
         <activity android:name=".SinginActivity" />
         <activity android:name=".SingnupActivity" />
         <activity android:name=".selectActivity" />
-        <activity android:name=".SuccessActivity"></activity>
+        <activity android:name=".SuccessActivity" />
+        <activity android:name=".date_time_Activity" />
+        <activity android:name=".dateActivity"></activity>
     </application>
 
 </manifest>

@@ -13,7 +13,7 @@
 
     <Button
         android:text="home"
-        android:textSize="30dp"
+        android:textSize="30sp"
         android:textColor="#0b0b0b"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -27,7 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="SUCCESS"
-        android:textSize="65dp"
+        android:textSize="65sp"
         android:textColor="#0f459c"
         android:id="@+id/textView3"
         android:layout_centerVertical="true"
@@ -38,7 +38,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="LINE UP"
-        android:textSize="65dp"
+        android:textSize="65sp"
         android:textColor="#0f459c"
         android:id="@+id/textView2"
         android:layout_above="@+id/textView3"
@@ -47,4 +47,6 @@
         android:layout_marginLeft="11dp"
         android:layout_marginStart="11dp"
         android:layout_marginBottom="14dp" />
+
+
 </RelativeLayout>

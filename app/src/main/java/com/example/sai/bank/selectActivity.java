@@ -53,7 +53,7 @@ public class selectActivity extends AppCompatActivity {
 
     public void success(View view) {
         Intent success1;
-        success1=new Intent(selectActivity.this,SuccessActivity.class);
+        success1=new Intent(selectActivity.this,date_time_Activity.class);
         startActivity(success1);
     }
 
